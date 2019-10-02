@@ -1,0 +1,23 @@
+[
+  {
+    "name":"Chicken Soup For The Soul 11 - Vượt Qua Thử Thách",
+    "year": 2019,
+    "type":"Sách kỹ năng",
+    "author": "Jack Cafield, Mark Victor Hansen ",
+    "price":48000
+  },
+  {
+    "name":"A Cup Of Chicken Soup For The Soul - Chia Sẻ Tâm Hồn",
+    "year": 2018,
+    "type":"Sách tâm lý",
+    "author": "Jack Cafield, Mark Victor Hansen ", 
+    "node": "Top 100 sản phẩm Chicken Soup - Hạt Giống Tâm Hồn bán chạy của tháng"
+  },
+  {
+    "name":"Nguyên Tắc Thiết Kế Slide Chuẩn Ted",
+    "year": 2018,
+    "supplier":"Nhà sách Thái Hà",
+    "author": "Akash Karia", 
+    "node": "Top 100 sản phẩm Chicken Soup - Hạt Giống Tâm Hồn bán chạy của tháng"
+  }
+]
